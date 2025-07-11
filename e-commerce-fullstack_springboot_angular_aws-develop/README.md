@@ -147,8 +147,3 @@ cd e-commerce-fullstack_springboot_angular_aws
 ### Search
 ![alt text](search.png)
 ---
-
-## 🤝 **Contributing**  
-Feel free to fork this repo, raise issues, and submit pull requests! 🎉  
-
----
